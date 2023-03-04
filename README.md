@@ -1,7 +1,9 @@
 # Job-Search-App
 Job search app project
 
-DESCRIPTION: Viewing available jobs, or applying for the job at the agency is currently done manually where in the job seekers has to go to the agency and check the available jobs at the agency. Job seekers check the list of jobs available and apply the job if the job is not available otherwise it is of waste for the job seeker to come to the agency to come to check for the job if the job seeker doesn’t get the job. Then the agency will show available jobs for the job seeker for his qualifications and the then updates the jobs database. This takes at least one to two hours if the job seeker is available at the near by place otherwise it may take more time.
+DESCRIPTION:
+
+This project is aimed at developing a web site for Online Job Portal. It is of great importance to the unemployed people. The site developed will allocate the right job information for suitable persons. All the jobseekers as well as job providers’ information are to be stored in the database.
 
 REQUIREMENTS:
 
